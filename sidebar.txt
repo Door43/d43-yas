@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yas:home|Door43 (yas)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yas|d43-yas repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yas/archive/master.zip|d43-yas.zip]]
+
+**Recent Changes**
+{{changes>ns = yas}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yas|Ethnologue data]]
+
